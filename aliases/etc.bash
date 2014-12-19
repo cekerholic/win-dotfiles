@@ -12,6 +12,7 @@ alias md='bundle exec middleman deploy'
 # File navigation
 alias md='mkdir -p'
 alias rd='rmdir'
+alias open='explorer'
 alias o='open'
 alias q='exit'
 alias ..='cd ..'
