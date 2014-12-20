@@ -2,6 +2,8 @@ path="$HOME/win-dotfiles"
 echo "$path"
 export PATH="$path/env:$PATH"
 
+export HISTCONTROL=ignoredups
+
 function load_all() {
   file_type=$1
   [ ! -d "$path/$file_type" ] && mkdir "$path/${file_type}"
@@ -16,3 +18,9 @@ function load_all() {
 echo ""
 echo "loading aliases"
 load_all aliases
+echo "done"
+
+echo ""
+echo "loading plugins"
+load_all plugins
+echo "done"

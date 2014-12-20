@@ -18,7 +18,5 @@ alias q='exit'
 alias ..='cd ..'
 alias ...='cd ../..'
 
-# Todo.txt
-PATH=$PATH:"./todo.txt/"
-alias t='./todo.txt/todo.sh -d ./todo.txt/todo.cfg'
-
+# Get local & public IP
+alias ip='curl http://ipecho.net/plain; echo; ipconfig | findstr IPv4; echo;'
