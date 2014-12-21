@@ -7,3 +7,7 @@ dotfiles for [MSysGit](http://msysgit.github.io/) Windows.
 - Clone this repo to root directory, usually `C:\Users\USERNAME`
 - `mv win-dotfiles/.bashrc .bashrc`
 - `source ~/.bashrc`
+
+## Todo
+
+- Documents everything
