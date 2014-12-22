@@ -12,5 +12,6 @@ alias gm='git merge --no-ff'
 alias gpl='git pull'
 alias gpu='git push'
 alias gst='git status'
-alias gr='git reset HEAD'
+alias gr='git reset HEAD --'
+alias gw='git whatchanged --oneline'
 

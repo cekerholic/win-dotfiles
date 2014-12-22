@@ -1,0 +1,7 @@
+[user]
+	name = Aris FM
+	email = masoglek@gmail.com
+[core]
+  excludesfile = ~/.gitignore
+[push]
+  default = current
