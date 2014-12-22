@@ -5,9 +5,9 @@ alias st='"/c/Program Files/Sublime Text 3/sublime_text.exe"'
 alias subl='"/c/Program Files/Sublime Text 3/sublime_text.exe"'
 
 # Middleman
-alias m='bundle exec middleman'
-alias mb='bundle exec middleman build'
-alias md='bundle exec middleman deploy'
+alias mid='bundle exec middleman'
+alias mid-b='bundle exec middleman build'
+alias mid-d='bundle exec middleman deploy'
 
 # File navigation
 alias md='mkdir -p'
