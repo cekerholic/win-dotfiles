@@ -15,4 +15,4 @@ alias my-gh='o https://github.com/cekerholic'
 alias my-bucket='o https://bitbucket.org/cekerholic'
 alias my-bucket='o https://bitbucket.org/cekerholic'
 alias my-twit='o https://twitter.com/Aris_FM'
-
+alias my-gist='o https://gist.github.com/cekerholic'
