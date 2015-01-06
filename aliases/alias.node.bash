@@ -3,10 +3,10 @@
 # Bower
 alias bi='bower install'
 alias bu='bower uninstall'
-alias bis='bower install -s'
-alias bus='bower uninstall -s'
-alias bid='bower install -d'
-alias bud='bower uninstall -d'
+alias bis='bower install -S'
+alias bus='bower uninstall -S'
+alias bid='bower install -D'
+alias bud='bower uninstall -D'
 alias bs='bower search'
 
 # Node
