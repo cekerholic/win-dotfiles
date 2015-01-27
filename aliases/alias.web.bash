@@ -10,6 +10,7 @@ alias gh='o https://github.com/'
 alias bucket='o https://bitbucket.org/'
 alias smash='o http://www.smashingmagazine.com/'
 alias pin='o http://www.pinterest.com/'
+alias draft='o https://draftin.com/'
 
 # Personal links
 alias my-gh='o https://github.com/cekerholic'
