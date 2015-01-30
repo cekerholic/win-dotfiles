@@ -1,6 +1,6 @@
 # win-dotfiles
 
-dotfiles for [MSysGit](http://msysgit.github.io/) Windows.
+My personal dotfiles for [MSysGit](http://msysgit.github.io/) Windows.
 
 ## Installation
 
@@ -8,6 +8,3 @@ dotfiles for [MSysGit](http://msysgit.github.io/) Windows.
 - `mv win-dotfiles/.bashrc .bashrc`
 - `source ~/.bashrc`
 
-## Todo
-
-- Documents everything
