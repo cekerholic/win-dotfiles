@@ -1,9 +1,5 @@
 # Uncategorized aliases
 
-# Sublime Text
-alias st='"/c/Program Files/Sublime Text 3/sublime_text.exe"'
-alias subl='"/c/Program Files/Sublime Text 3/sublime_text.exe"'
-
 # File navigation
 alias md='mkdir -p'
 alias rd='rmdir'
