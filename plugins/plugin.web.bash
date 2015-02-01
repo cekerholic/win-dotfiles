@@ -23,3 +23,8 @@ transID() {
   o 'https://translate.google.com/?source=osdd#en/id/'${1// /%20}
 }
 
+# Search Movie Subtitle
+subs() {
+  o 'http://subscene.com/subtitles/title?q='${1// /%20}
+}
+
