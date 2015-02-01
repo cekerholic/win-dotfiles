@@ -14,4 +14,4 @@ alias ..='cd ..'
 alias ...='cd ../..'
 
 # Get local & public IP
-alias ip='curl http://ipecho.net/plain; echo; ipconfig | findstr IPv4; echo;'
+alias ip='curl http://myexternalip.com/raw; echo; ipconfig | findstr IPv4; echo;'
