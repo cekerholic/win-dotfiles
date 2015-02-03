@@ -14,12 +14,12 @@ stack() {
 }
 
 # Translate Indonesian to English
-transEN() {
+entrans() {
   o 'https://translate.google.com/?source=osdd#id/en/'${1// /%20}
 }
 
 # Translate English to Indonesian
-transID() {
+idtrans() {
   o 'https://translate.google.com/?source=osdd#en/id/'${1// /%20}
 }
 
