@@ -11,3 +11,6 @@ alias ...='cd ../..'
 
 # Get local & public IP
 alias ip='curl http://myexternalip.com/raw; echo; ipconfig | findstr IPv4; echo;'
+
+# Ping Google
+alias ping='ping 8.8.8.8 -t'
