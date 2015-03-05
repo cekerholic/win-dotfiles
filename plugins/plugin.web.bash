@@ -28,3 +28,8 @@ subs() {
   o 'http://subscene.com/subtitles/title?q='${1// /%20}
 }
 
+# View Musician Profile on Last.fm
+last() {
+  o 'http://www.last.fm/music/'${1// /+}
+}
+
