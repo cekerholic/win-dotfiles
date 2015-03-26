@@ -3,6 +3,9 @@ echo "$path"
 export PATH="$path/env:$PATH"
 
 export HISTCONTROL=ignoredups
+export HISTFILESIZE=
+export HISTSIZE=
+export HISTTIMEFORMAT="[%F %T] "
 
 function load_all() {
   file_type=$1
